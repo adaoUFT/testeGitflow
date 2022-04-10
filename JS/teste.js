@@ -6,3 +6,4 @@ var b = 450;
 var brasil = 10;
 var to = 700;
 console.log(x+y);
+console.log(to+te);
