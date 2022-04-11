@@ -18,3 +18,6 @@ console.log('R01/INTERAÇÃO2/TERCEIRO COMMIT');
 console.log(to+te);
 
 
+
+console.log('R11/INTERAÇÃO2/primeiro COMMIT');
+//console.log('R11/INTERAÇÃO2/TERCEIRO COMMIT');
