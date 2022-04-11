@@ -20,4 +20,4 @@ console.log(to+te);
 
 console.log('R10/INTERAÇÃO2/primeiro  COMMIT');
 console.log('R01/INTERAÇÃO2/segundo COMMIT');
-
+console.log('R01/INTERAÇÃO2/terceiro COMMIT');
